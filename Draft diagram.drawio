@@ -1,38 +1,62 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="G5ScMDMeG9ku_5hFClL5">
-    <mxGraphModel dx="1044" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NAgnXPQE6G2grFAL6IyC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" source="NAgnXPQE6G2grFAL6IyC-1" target="NAgnXPQE6G2grFAL6IyC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-1" value="Raw Images" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-1" value="Raw Images" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="325" y="100" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAgnXPQE6G2grFAL6IyC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" source="NAgnXPQE6G2grFAL6IyC-2" target="NAgnXPQE6G2grFAL6IyC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-2" value="&lt;span style=&quot;color: rgb(26, 32, 41); text-align: left;&quot;&gt;Average Images: Two-dimensional → One-dimensional&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-2" value="&lt;span style=&quot;color: rgb(26, 32, 41); text-align: left;&quot;&gt;Average Images: Two-dimensional → One-dimensional&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="270" y="150" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" source="NAgnXPQE6G2grFAL6IyC-4" target="NAgnXPQE6G2grFAL6IyC-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="NAgnXPQE6G2grFAL6IyC-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="225" as="sourcePoint" />
+            <mxPoint x="582" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="494" y="225" />
+              <mxPoint x="494" y="70" />
+              <mxPoint x="590" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-4" value="&lt;span style=&quot;color: rgb(26, 32, 41); text-align: left;&quot;&gt;Wavelet Transform&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" vertex="1">
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-4" value="&lt;span style=&quot;color: rgb(26, 32, 41); text-align: left;&quot;&gt;Wavelet Transform&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAgnXPQE6G2grFAL6IyC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" source="NAgnXPQE6G2grFAL6IyC-2" target="NAgnXPQE6G2grFAL6IyC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" source="NAgnXPQE6G2grFAL6IyC-7" target="NAgnXPQE6G2grFAL6IyC-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xEvmoVWH2HvcU4wR7d0W-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NAgnXPQE6G2grFAL6IyC-7" target="NAgnXPQE6G2grFAL6IyC-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="130" />
+              <mxPoint x="590" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-7" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-size: 15px; text-align: left;&quot;&gt;Threshold Detrend&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="260" width="140" height="30" as="geometry" />
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-7" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-size: 15px; text-align: left;&quot;&gt;Threshold Detrend&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="517" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NAgnXPQE6G2grFAL6IyC-9" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-size: 15px; text-align: left;&quot;&gt;Wavelet Inverse Transform&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;" parent="1" vertex="1">
-          <mxGeometry x="290" y="310" width="180" height="30" as="geometry" />
+        <mxCell id="xEvmoVWH2HvcU4wR7d0W-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NAgnXPQE6G2grFAL6IyC-9" target="xEvmoVWH2HvcU4wR7d0W-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="180" />
+              <mxPoint x="590" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAgnXPQE6G2grFAL6IyC-9" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-size: 15px; text-align: left;&quot;&gt;Wavelet Inverse Transform&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;arcSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="497" y="140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xEvmoVWH2HvcU4wR7d0W-3" value="Deblurring&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;labelBackgroundColor=none;arcSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="190" width="153" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
